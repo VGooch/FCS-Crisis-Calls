@@ -1,3 +1,6 @@
+## Introduction
+FCS tasked my team to come up with actionable insights they could use to help generate funding for their company. We started by brainstorming as a team and taking time to individually explore the data before we determined a outline and tasked different groups assignments on what to focus on. It was my task to clean the data set for the team. I used python and excel to clean the data, and sent out a clean data set csv for the team. My group was tasked with also coming up with insights on geographical data and exploring that area of the data set.
+
 # Family and Children Services Crisis Calls
 
 [Family and Children Services of Nashville](http://www.fcsnashville.org/) operates a Crisis Call Center. When calls come in, call takers use a form to indicate the various issues the individual is experiencing: 
